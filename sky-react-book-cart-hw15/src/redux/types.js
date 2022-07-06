@@ -1,0 +1,1 @@
+export const BOOK_LOAD = 'BOOK_LOAD'
